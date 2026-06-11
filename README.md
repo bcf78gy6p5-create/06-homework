@@ -1,3 +1,3 @@
-# Homework week June 11
-## _at Columbia LEDE Programm_
+# Homework June 11
+## _Columbia LEDE Programm_
 
